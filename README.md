@@ -51,7 +51,7 @@ kafkacat -b rc1b-2erh7b35n4j4v869.mdb.yandexcloud.net:9091 -X security.protocol=
 
 2.7 Вызвать привычный jupyter notebook --allow-root (Порядок имеет значение)
 
-### №Postgresql, таблица, данные
+### Postgresql, таблица, данные
 
 1 - создать или запустить postgresql в docker "sprint8_project"
 
